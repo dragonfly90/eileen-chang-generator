@@ -2,6 +2,8 @@
 
 AI-powered novel generator that creates stories in the style of Eileen Chang (张爱玲), the renowned Chinese author.
 
+🌐 **[Live Demo](https://dragonfly90.github.io/eileen-chang-generator/)** | 📚 **[View Novels](https://dragonfly90.github.io/eileen-chang-generator/generated_novels/)**
+
 ## Features
 
 - 🤖 **Multi-Provider LLM Support**: Groq, DeepSeek, Qwen, Gemini
@@ -80,3 +82,4 @@ MIT
 ## Author
 
 Generated with ❤️ using AI
+# eileen-chang-generator
